@@ -1,1 +1,4 @@
 npm install
+npm install i18n-next
+npm i vue-i18n
+npm i next-i18next
